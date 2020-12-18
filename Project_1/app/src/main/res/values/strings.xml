@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Le Labyrinthe</string>
+    <string name="app_credit">Créé en 2020</string>
+    <string name="app_langue">Francais</string>
+    <integer name="vitesseChemin">350</integer>
+    <string name="jouer">Jouer</string>
+    <string name="parametre">Paramètres</string>
+    <string name="credits">Crédits</string>
+    <string name="Quitter">Quitter</string>
+    <string name="langue_fr">Francais</string>
+    <string name="langue_en">Anglais</string>
+</resources>
